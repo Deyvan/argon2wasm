@@ -1,5 +1,5 @@
 {
-  "name": "argon2wasm",
+  "name": "@deyvan/argon2wasm",
   "version": "1.0.0",
   "description": "wasm version of argon2",
   "main": "lib/index.js",
@@ -15,6 +15,10 @@
   "author": "deyvan",
   "license": "MIT",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deyvan/argon2wasm.git"
+  },
   "dependencies": {
     "buffer": "^6.0.3"
   }
