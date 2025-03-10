@@ -1,0 +1,21 @@
+{
+  "name": "argon2wasm",
+  "version": "1.0.0",
+  "description": "wasm version of argon2",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "hash",
+    "wasm",
+    "argon2"
+  ],
+  "author": "deyvan",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
+}
